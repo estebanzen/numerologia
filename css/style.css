@@ -1,0 +1,9 @@
+body {
+  position: relative;
+  /* margin-bottom: 500px;*/ }
+  body .resultados li {
+    display: none; }
+  body .logger {
+    border: solid;
+    max-height: 100px;
+    overflow: auto; }

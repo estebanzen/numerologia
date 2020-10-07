@@ -1,0 +1,17 @@
+body {
+  position: relative;
+  /* margin-bottom: 500px;*/
+
+  .resultados {
+    li {
+      display: none;
+    }
+  }
+
+  .logger {
+    border: solid;
+    max-height: 100px;
+    overflow: auto;
+  }
+
+}
